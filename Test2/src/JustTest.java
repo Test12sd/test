@@ -5,6 +5,7 @@ public class JustTest {
 		// TODO Auto-generated method stub
 System.out.println("tesasdt");
 System.out.println("Two vers");
+System.out.println("Three changes");
 	}
 
 }
